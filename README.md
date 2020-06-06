@@ -2,10 +2,6 @@
 <h4 align="center">Application to help with waste collection and recycling by listing collection points </h4>
 <br>
 
-<h4>Web application screen:</h4>
-![Screen](.github/homescreen-web.png)
-<br>
-
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%21A7DF1E">
@@ -13,8 +9,16 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%21A7DF1E">
 </p>
 
+![Screen](.github/homescreen-web.png)
+
+<small>
+  (Web application home screen preview)
+</small>
+
+<br>
+
  ### :computer: Languages and technologies:
-  <ul style="list-style-type:circle;">
+  <ul style="list-style-type:square;">
   <li>Typescript</li>
   </ul>
   Front-end<ul style="list-style-type:disc;">
@@ -58,5 +62,5 @@
 ### :memo: License
   This project is under MIT license. Check [LICENSE](LICENSE.md) for details.
 <br><hr><small>
-  Built at the Next Level Week #1 event, by :rocket: [RocketSeat](https://rocketseat.com.br/), instructed by [Diego Fernandes](https://github.com/diego3g)
+  Built in the Next Level Week #1 event, by :rocket: [RocketSeat](https://rocketseat.com.br/), instructed by [Diego Fernandes](https://github.com/diego3g)
   </small>
